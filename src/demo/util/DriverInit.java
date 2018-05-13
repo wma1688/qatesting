@@ -1,4 +1,4 @@
-package demo;
+package demo.util;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;

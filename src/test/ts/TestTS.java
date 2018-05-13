@@ -6,8 +6,8 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
-import demo.DriverInit;
 import demo.TorontoSun;
+import demo.util.DriverInit;
 
 
 public class TestTS {
